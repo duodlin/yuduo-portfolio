@@ -42,7 +42,7 @@
 @media(max-width:600px){.showcase-tabs button{font-size:9px}.showcase-caption h3{font-size:20px}}
 
 /* Use the supplied Inverted Clock cover as the About section backdrop. */
-.about-sky{background:url('/media/about-background.jpg') center center/cover no-repeat}
+.about-sky{background:url('../public/media/about-background.jpg') center center/cover no-repeat}
 .about-sky:before,.about-mountain{display:none}
 
 /* Keep the hero title, navigation and social links on one horizontal line. */
